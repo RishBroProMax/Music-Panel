@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sound Panel | Rishmika Sandanu</title>
+    <link rel="stylesheet" href="styles.css">
+    <meta name="description" content="Made by Rishmika Sandanu For Schhol Drama Practice"
+    
+</head>
+<body>
+    <!--Make -->
+    <div id="loading-screen">
+        <div class="loading-message">♻ Starting Script...</div>
+    </div>
+
+    <div id="content" class="hidden">
+        <div class="button-container">
+            <button class="sound-button" onclick="playSound('sound1')">Sad Music</button>
+            <button class="sound-button" onclick="playSound('sound2')">Heshani's Music</button>
+            <button class="sound-button" onclick="playSound('sound3')">Wind</button>
+            <button class="sound-button" onclick="playSound('sound4')">1st Song</button>
+            <button class="sound-button" onclick="playSound('sound5')">Thief Sound</button>
+            <button class="sound-button" onclick="playSound('sound6')">Crane</button>
+            <button class="sound-button" onclick="playSound('sound7')">Start Song</button>
+            <button class="sound-button" onclick="playSound('sound8')">Weaving Sound</button>
+            <button class="sound-button" onclick="playSound('sound9')">Extra Background</button>
+            <button class="sound-button" onclick="playSound('sound10')">Extra Background</button>
+            <button class="sound-button" onclick="playSound('sound11')">Song By AI</button>
+            <button class="sound-button" onclick="playSound('sound12')">Yami Sound</button>
+        </div>
+        <div class="control-buttons">
+            <button class="control-button" onclick="pauseAllSounds()">🔒 Pause 🔒</button>
+            <button class="control-button" onclick="resumeAllSounds()">🔓 Resume 🔓</button>
+            <button class="control-button" onclick="stopAllSounds()">❌Stop❌</button>
+        </div>
+        <div class="volume-control">
+            <label for="volume">🔊 Volume:</label>
+            <input type="range" id="volume" min="0" max="100" value="100" onchange="changeVolume(this.value)">
+        </div>
+        <div class="visualizer-container">
+            <div id="visualizer" class="visualizer"></div>
+        </div>
+        <footer> <br>
+            <div class="footer-content">
+                <p>Copyright Reserved By <a href="https://github.com/RishBroProMax/">Rishmika Sandanu</a>( 9B Class Student | For English Junior Darama )</p>
+            </div>
+        </footer>
+    </div>
+
+
+    <audio id="sound1" src="sounds/Sad Music.mp3"></audio>
+    <audio id="sound2" src="sounds/Heshani.mp3"></audio>
+    <audio id="sound3" src="sounds/Wind Sound.mp3"></audio>
+    <audio id="sound4" src="sounds/1st Part.mp3"></audio>
+    <audio id="sound5" src="sounds/Hora.mp3"></audio>
+    <audio id="sound6" src="sounds/Crane.mp3"></audio>
+    <audio id="sound7" src="sounds/Start Song.mp3"></audio>
+    <audio id="sound8" src="sounds/sound.mp3"></audio> <!--Still Not Found-->
+    <audio id="sound9" src="sounds/Bg.mp3"></audio>
+    <audio id="sound10" src="sounds/BG2.mp3"></audio>
+    <audio id="sound11" src="sounds/Song2.mpeg"></audio>
+    <audio id="sound12" src="sounds/Fun.mp3"></audio> <!-- Just For Fun Yami Thekudas Sayi-->
+
+    <script src="script.js"></script>
+</body>
+</html>
