@@ -11,9 +11,9 @@ Welcome to the **Music Panel** website, where you can play and control sound eff
 - **Loading Screen**: Displays engaging loading messages before the website content appears.
 - **Footer Bar**: Includes a copyright notice and a link to the developer’s GitHub profile.
 
-## 🎨 Live Demo
+## 🎨 Screen Shots
 
-Check out the live demo of the Music Panel [here](#).
+
 
 ## 📂 Project Structure
 
