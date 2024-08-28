@@ -13,7 +13,7 @@ Welcome to the **Music Panel** website, where you can play and control sound eff
 
 ## 🎨 Screen Shots
 
-<p align="center"><img src="https://telegra.ph/file/b2188c05b98c9e5f9a6d9.jpg" width="600" height="700"/>
+<p align="center"><img src="https://telegra.ph/file/b2188c05b98c9e5f9a6d9.jpg"/>
 
 ## 📂 Project Structure
 
@@ -26,9 +26,19 @@ Welcome to the **Music Panel** website, where you can play and control sound eff
 ```
 
 # 🛠️ Technologies Used
-### HTML5 <br>
-### CSS3 <br>
-### JavaScript
+ **HTML5** <br>
+ **CSS** <br>
+**JavaScript**
+
+# 🔰 Create Own Music Panel.
+<center>1. First You Want Download or Copy these Files ( index.html, styles.css, script.js ) <br>
+2. and Follow These Screen Shots to Make Own Music Panel <br> </center>
+
+<p align="center"><img src="https://telegra.ph/file/99ded01310c156250e7b6.jpg"/><br>
+3. Edit Buttons Name Like This <br>
+
+<p align="center"><img src="https://telegra.ph/file/6444f4db4303e220bb916.jpg"/> <br>
+4. Find You Want Button And Add Sound File Path to Code
 
 # 🤝 Contributing
 
@@ -37,7 +47,7 @@ Welcome to the **Music Panel** website, where you can play and control sound eff
 # 📬 Contact
 **If you have any questions or feedback, feel free to reach out:**
 
-**GitHub**: [Rishmika Sandanu](https://github.com/RishBroProMax/)
+**GitHub**: [Rishmika Sandanu](https://github.com/RishBroProMax/) <br>
 **Telegram**: [@ImRishmika1](t.me/ImRishmika1)
 
 
