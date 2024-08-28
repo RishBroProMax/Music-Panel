@@ -11,10 +11,10 @@ Welcome to the **Music Panel** website, where you can play and control sound eff
 - **Loading Screen**: Displays engaging loading messages before the website content appears.
 - **Footer Bar**: Includes a copyright notice and a link to the developer’s GitHub profile.
 
-## 🎨 Screen Shots
+## 🎨 Screenshots
 
-<p align="center"><img src="https://telegra.ph/file/b2188c05b98c9e5f9a6d9.jpg"/>
-
+<p align="center"><img src="https://telegra.ph/file/b2188c05b98c9e5f9a6d9.jpg" alt="Music Panel Screenshot"/></p>
+<br>
 ## 📂 Project Structure
 
 ```
@@ -25,30 +25,34 @@ Welcome to the **Music Panel** website, where you can play and control sound eff
 └── README.md              # This README file
 ```
 
-# 🛠️ Technologies Used
- **HTML5** <br>
- **CSS** <br>
-**JavaScript**
+## 🛠️ Technologies Used
 
-# 🔰 Create Own Music Panel.
-<center>1. First You Want Download or Copy these Files ( index.html, styles.css, script.js ) <br>
-2. and Follow These Screen Shots to Make Own Music Panel <br> </center>
+- **HTML5**
+- **CSS**
+- **JavaScript**
 
-<p align="center"><img src="https://telegra.ph/file/99ded01310c156250e7b6.jpg"/><br>
-3. Edit Buttons Name Like This <br>
+## 🔰 Create Your Own Music Panel
 
-<p align="center"><img src="https://telegra.ph/file/6444f4db4303e220bb916.jpg"/> <br>
-4. Find You Want Button And Add Sound File Path to Code
+1. First, download or copy these files (index.html, styles.css, script.js).
+2. Follow these screenshots to make your own Music Panel:
 
-# 🤝 Contributing
+<p align="center"><img src="https://telegra.ph/file/99ded01310c156250e7b6.jpg" alt="Edit Buttons"/></p>
 
-**Contributions are welcome! Feel free to fork this repository, submit pull requests, or open issues to improve this project** <br>
+3. Edit button names like this:
 
-# 📬 Contact
-**If you have any questions or feedback, feel free to reach out:**
+<p align="center"><img src="https://telegra.ph/file/6444f4db4303e220bb916.jpg" alt="Add Sound File Path"/></p>
 
-**GitHub**: [Rishmika Sandanu](https://github.com/RishBroProMax/) <br>
-**Telegram**: [@ImRishmika1](t.me/ImRishmika1)
+4. Find the button you want and add the sound file path to the code.
 
+## 🤝 Contributing
 
-### Developed with ❤️ by [Rishmika Sandanu](t.me/AboutRishmika)
+Contributions are welcome! Feel free to fork this repository, submit pull requests, or open issues to improve this project.
+
+## 📬 Contact
+
+If you have any questions or feedback, feel free to reach out:
+
+- **GitHub**: [Rishmika Sandanu](https://github.com/RishBroProMax/)
+- **Telegram**: [@ImRishmika1](t.me/ImRishmika1)
+
+### Developed with ❤️ by Rishmika Sandanu
