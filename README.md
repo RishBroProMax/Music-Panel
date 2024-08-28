@@ -13,7 +13,7 @@ Welcome to the **Music Panel** website, where you can play and control sound eff
 
 ## 🎨 Screen Shots
 
-
+<p align="center"><img src="https://telegra.ph/file/b2188c05b98c9e5f9a6d9.jpg" width="600" height="700"/>
 
 ## 📂 Project Structure
 
