@@ -2,6 +2,9 @@
 
 Welcome to the **Music Panel** website, where you can play and control sound effects with style! This project features a sleek and advanced design with animations, a loading screen, and a responsive layout. It’s perfect for showcasing your favorite sound effects in a fun and interactive way.
 
+## ⚜ Try Demo [Click Here](https://music-panel.vercel.app/)
+`This is Buttons Sound Path is Not Correct This is Demo Version`
+
 ## 🚀 Features
 
 - **8 Sound Effect Buttons**: Play different sound effects at the click of a button.
