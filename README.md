@@ -34,19 +34,6 @@ Welcome to the **Music Panel** website, where you can play and control sound eff
 - **CSS**
 - **JavaScript**
 
-## 🔰 Create Your Own Music Panel
-
-1. First, download or copy these files (index.html, styles.css, script.js).
-2. Follow these screenshots to make your own Music Panel:
-
-<p align="center"><img src="https://telegra.ph/file/99ded01310c156250e7b6.jpg" alt="Edit Buttons"/></p>
-
-3. Edit button names like this:
-
-<p align="center"><img src="https://telegra.ph/file/6444f4db4303e220bb916.jpg" alt="Add Sound File Path"/></p>
-
-4. Find the button you want and add the sound file path to the code.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repository, submit pull requests, or open issues to improve this project.
